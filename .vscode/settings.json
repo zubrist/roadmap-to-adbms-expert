@@ -1,0 +1,12 @@
+{
+    "cSpell.words": [
+        "AUTOINCREMENT",
+        "executemany",
+        "ipynb"
+    ],
+    "Codegeex.RepoIndex": true,
+    "Codegeex.CompletionDelay": 0.5,
+    "Codegeex.GenerationPreference": "block",
+    "Codegeex.CommitMessageStyle": "ConventionalCommits",
+    "Codegeex.SidebarUI.LanguagePreference": "English"
+}
